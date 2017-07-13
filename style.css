@@ -1,0 +1,70 @@
+body{
+    background-color: 	#70964b;
+}
+#container{
+    width: 90%;
+    height: 400px;
+    margin: 0 auto;
+    border: 2px solid 	#9bc063;
+    position: relative;
+    margin-top: 0px;
+}
+
+.sub-container{
+    
+}
+
+#logo{
+    width: 30%;
+    position: relative;
+    left: 35%;
+
+}
+
+.slides{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+}
+
+.btn {
+    border: none; 
+    color: white; 
+    padding: 14px 14px; 
+    cursor: pointer; 
+}
+
+.slider {
+    background-color: transparent;
+} 
+.slider:hover {
+    background-color: 		#9bc063;
+    }
+
+.btnRight{
+    float: right;
+    position: relative;
+    top: 180px;
+    right: 20px;
+}
+
+.btnLeft{
+    
+    position: relative;
+    float: left;
+    top: 180px;
+    left: 20px;
+    
+}
+.footer{
+    text-align: center;
+    font-family: fantasy;
+    color: 	#5a4862;
+    font-size: 25px;
+}
+
+.img{
+    width: 33%;
+    height: 400px;
+    /*margin :0px 10px 0px 21px; */
+}
